@@ -1,0 +1,12 @@
+platform :ios, '13.0'
+
+target 'Calendar' do
+use_frameworks!
+
+
+
+pod 'SnapKit'
+pod 'JTAppleCalendar'
+pod 'SwifterSwift'
+
+end
